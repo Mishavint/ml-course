@@ -1,6 +1,12 @@
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Python
+venv
+
+# Pycharm
+.idea
+
 # Latex
 *.tex
 *.sty
